@@ -5,3 +5,4 @@ Criei este repositório com o intuito de fazer resumos dos meus estudos relacion
 ## Tópicos
 
 - [Pentest](./Assuntos/Pentest.md)
+- [Hackers](./Assuntos/Hackers.md)
