@@ -6,4 +6,4 @@ Criei este repositório com o intuito de fazer resumos dos meus estudos relacion
 
 - [Pentest](./Assuntos/Pentest.md)
 - [Hackers](./Assuntos/Hackers.md)
-- [OWASP/OWASP Top Ten](./Assuntos/OWASP/OWASP Top Ten.md)
+- [OWASP/OWASP Top Ten](./Assuntos/OWASP & OWASP Top Ten.md)
